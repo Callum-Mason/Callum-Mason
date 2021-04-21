@@ -1,7 +1,7 @@
 
 <p align="center">
 
- <img src="https://github.com/Callum-Mason/Callum-Mason/blob/master/Assets/hello.gif" alt = "Hello" width="40px" height="40px">
+ <img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/hello.gif" alt = "Hello" width="250px">
 
 </p>
 
@@ -60,7 +60,7 @@ I am learning diffrent technologies such as **websockets** and **Typescrip**. My
 Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
-| [<img src="https://github.com/Callum-Mason/Callum-Mason/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/callum-mason/) | [<img src="https://github.com/Callum-Mason/Callum-Mason/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/callum_mason1999/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Callum-Mason/Callum-Mason)  | [<img src="https://github.com/Callum-Mason/Callum-Mason/blob/master/Assets/Gmail.svg" alt="Email" height="32">](mailto:clmason99@hotmail.co.uk) |
+| [<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/callum-mason/) | [<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/callum_mason1999/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Callum-Mason/Callum-Mason)  | [<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Gmail.svg" alt="Email" height="32">](mailto:clmason99@hotmail.co.uk) |
 
 </div>
 
