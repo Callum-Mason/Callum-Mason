@@ -57,9 +57,7 @@ I am learning diffrent technologies such as **websockets** and **Typescrip**. My
 <div align="center">
 
 <h2>
-
-Connect with me<img src="Assets/Handshake.gif" height="32px">
-
+Connect with me<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Handshake.gif" height="32px">
 </h2>
 
 | [<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.masons.ml) | [<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://instagram.masons.ml) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://git.masons.ml)  | [<img src="https://raw.githubusercontent.com/Callum-Mason/Callum-Mason/master/assets/Gmail.svg" alt="Email" height="32">](mailto:contact@masons.ml) |[<img src="https://masons.ml/assets/ico/android-icon-192x192.png" alt="Site" height="32">](https://masons.ml/)|[<img src="https://dev.masons.ml/assets/ico/android-icon-192x192.png" alt="Dev Site" height="32">](https://dev.masons.ml/)|
